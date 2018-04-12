@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandTextView">
+        <attr name="expandTextColor" format="color"/>
+        <attr name="expandText" format="string"/>
+        <attr name="foldText" format="string"/>
+        <attr name="maxLines" format="integer"/>
+    </declare-styleable>
+</resources>
